@@ -23,8 +23,8 @@ font-size:0.9em;
 }
 
 .summary{
-  width:auto;
-  heifht:auto;
+  width:100%;
+  height:600px;
    background:#00f;
 }
 
