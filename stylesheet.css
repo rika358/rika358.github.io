@@ -26,10 +26,7 @@ font-size:0.9em;
   max-width:45%;
   height:auto;
   background:#f11;
-}
-
-.summary-left{
- float:left; 
+  float:center;
 }
 
 .summary-right{
