@@ -28,6 +28,10 @@ font-size:0.9em;
   background:#f11;
 }
 
+.summary-left{
+ float:left; 
+}
+
 .summary-right{
   background:#f00;
 }
