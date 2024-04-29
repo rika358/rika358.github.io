@@ -26,6 +26,15 @@ font-size:0.9em;
   height:auto;
 }
 
+.summary-left{
+  floar:left;
+}
+
+.summary-right{
+  float:right;
+}
+
+
 #works-back{
   backgraoud-color:#F5FFFA;
 }
