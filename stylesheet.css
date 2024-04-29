@@ -35,6 +35,10 @@ font-size:0.9em;
   background:#2ff;
 }
 
-#works-back{
-  backgraoud-color:#F5FFFA;
+.about{
+  background:#f11; 
+}
+
+.works{
+ background:#f00; 
 }
