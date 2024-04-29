@@ -22,6 +22,13 @@ p {
 font-size:0.9em;  
 }
 
+.summary{
+  width:auto;
+  heifht:auto;
+   background:#00f;
+}
+
+
 .summary-img{
   max-width:45%;
   height:auto;
