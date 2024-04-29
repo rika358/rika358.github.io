@@ -17,10 +17,15 @@ h3{
   font-size:1.1em;
 }
 
-
 p {
 font-size:0.9em;  
 }
+
+.summary-img{
+  width:500px;
+  height:250px;
+}
+
 
 #works-back{
   backgraoud-color:#F5FFFA;
