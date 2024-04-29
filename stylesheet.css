@@ -21,7 +21,10 @@ p {
 font-size:0.9em;  
 }
 
-
+.summary-img{
+  max-width:100%;
+  height:auto;
+}
 
 #works-back{
   backgraoud-color:#F5FFFA;
