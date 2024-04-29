@@ -24,7 +24,13 @@ font-size:0.9em;
 .summary-img{
   max-width:45%;
   height:auto;
+  background:#f11;
 }
+
+.summary-right{
+  background:#f00;
+}
+
 
 
 #works-back{
