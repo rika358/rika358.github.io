@@ -22,16 +22,8 @@ font-size:0.9em;
 }
 
 .summary-img{
-  max-width:50%;
+  max-width:45%;
   height:auto;
-}
-
-.summary-left{
-  float:left;
-}
-
-.summary-right{
-  float:right;
 }
 
 
