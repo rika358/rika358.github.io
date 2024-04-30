@@ -34,8 +34,7 @@ font-size:0.9em;
   max-width:45%;
   height:auto;
   background:#f11;
-  display:flex;
-  justify-content:center;
+  float:right;
 }
 
 .aboutMe{
